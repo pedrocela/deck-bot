@@ -5,6 +5,8 @@ This cog was made to help users build, store and search for Clash Royale decks m
 
 # Usage
 
+Typing all the example commands below will walk you through all the features supported by the Deck module.
+
 ## Displaying a deck
 Create an image of the deck with the 8 cards followed by a name surrounded in quotes. If no name is entered, the deck will be named simply as *Deck*.
 

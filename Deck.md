@@ -17,7 +17,7 @@ This cog was made to help users build, store and search for Clash Royale decks m
 
 ## Requirements
 
-* Pillow (PIL Python3 fork)
+* [Pillow](https://python-pillow.org/): the friendly PIL fork
 
 ## How to install
 

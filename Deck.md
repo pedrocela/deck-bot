@@ -5,8 +5,6 @@ This cog was made to help users build, store and search for Clash Royale decks m
 
 # Usage
 
-Typing all the example commands below will walk you through all the features supported by the Deck module.
-
 ## Displaying a deck
 Create an image of the deck with the 8 cards followed by a name surrounded in quotes. If no name is entered, the deck will be named simply as *Deck*.
 
@@ -18,3 +16,7 @@ Create an image of the deck with the 8 cards followed by a name surrounded in qu
 Using the `!deck get` command will only display the deck. To actually save the deck to your personal collection, use the `!deck add` command.
 
 `!deck add 3M knight log pump miner ig is skeletons "3M Cycle"`
+
+As a default, you can store up to 5 decks in your personal collection on each server, but this setting can be changed by the admin (TODO).
+
+

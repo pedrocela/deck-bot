@@ -21,8 +21,10 @@ This cog was made to help users build, store and search for Clash Royale decks m
 
 ## How to install
 
-`!cog repo add SML-Cogs http://github.com/smlbiobot/SML-Cogs`
-`!cog install SML-Cogs deck`
+```
+!cog repo add SML-Cogs http://github.com/smlbiobot/SML-Cogs
+!cog install SML-Cogs deck
+```
 
 # Usage
 

@@ -1,0 +1,2 @@
+!cog repo add SML-Cogs http://github.com/smlbiobot/SML-Cogs
+!cog install SML-Cogs deck

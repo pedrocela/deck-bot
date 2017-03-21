@@ -18,12 +18,14 @@ Create an image of the deck with the 8 cards followed by a name surrounded in qu
 
 `!deck get 3M knight log pump miner ig is skeletons "3M Cycle"`
 
-![Deck](https://github.com/smlbiobot/SML-Cogs/blob/master/wiki/img/deck/deck-thr-kni-the-eli-min-ice-ice-ske.png)
+![Getting a deck](https://github.com/smlbiobot/SML-Cogs/blob/master/wiki/img/deck/deck-get)
 
 ## Saving a deck
 Using the `!deck get` command will only display the deck. To actually save the deck to your personal collection, use the `!deck add` command.
 
 `!deck add 3M knight log pump miner ig is skeletons "3M Cycle"`
+
+![Adding a deck](https://github.com/smlbiobot/SML-Cogs/blob/master/wiki/img/deck/deck-add)
 
 As a default, you can store up to 5 decks in your personal collection on each server, but this setting can be changed by the admin (TODO).
 

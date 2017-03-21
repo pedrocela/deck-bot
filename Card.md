@@ -1,1 +1,0 @@
-Card popularity snapshots released by Woody on Reddit.

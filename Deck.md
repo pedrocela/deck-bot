@@ -34,7 +34,9 @@ To display your stored decks, use the `!deck list` command.
 
 ![Deck List output](https://github.com/smlbiobot/SML-Cogs/blob/master/wiki/img/deck/deck-list-sml.png)
 
-To list the decks added by another user, add that to the last parameter.
+## Listing decks by another user
+
+To list the decks added by another user, add that as the last parameter.
 
 `!deck list @6John`
 

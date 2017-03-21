@@ -1,5 +1,13 @@
 This cog was made to help users build, store and search for Clash Royale decks made by other users on the server.
 
+  * [Requirements](#requirements)
+  * [Usage](#usage)
+    * [Displaying a deck](#displaying-a-deck)
+    * [Saving a deck](#saving-a-deck)
+    * [Listing decks from your collection](#listing-decks-from-your-collection)
+
+    
+
 # Requirements
 * Pillow (PIL Python3 fork)
 

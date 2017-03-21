@@ -20,11 +20,17 @@ Using the `!deck get` command will only display the deck. To actually save the d
 As a default, you can store up to 5 decks in your personal collection on each server, but this setting can be changed by the admin (TODO).
 
 ## Listing decks from your collection
-To display your stored decks, use the `!deck list` command
+To display your stored decks, use the `!deck list` command.
 
 `!deck list`
 
-![Deck List output](https://github.com/smlbiobot/SML-Cogs/blob/master/wiki/img/deck/deck-list-out.png)
+![Deck List output](https://github.com/smlbiobot/SML-Cogs/blob/master/wiki/img/deck/deck-list-sml.png)
+
+To list the decks added by another user, add that to the last parameter.
+
+`!deck list @6John`
+
+![Deck list another user](https://github.com/smlbiobot/SML-Cogs/blob/master/wiki/img/deck/deck-list-6john.png)
 
 
 
